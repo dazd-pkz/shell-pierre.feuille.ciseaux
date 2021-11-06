@@ -1,2 +1,2 @@
-# shell-pierre.feuille.ciseaux
+#SHELL / Pierre Feuille Ciseaux
 Un Pierre Feuille Ciseaux écrit en Shell 
