@@ -1,2 +1,2 @@
-#SHELL / Pierre Feuille Ciseaux
+# SHELL / Pierre Feuille Ciseaux
 Un Pierre Feuille Ciseaux écrit en Shell 
